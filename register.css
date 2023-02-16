@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.form input {
+    height: 45px;
+    width: 280px;
+    max-width: 80;
+    box-sizing: border-box;
+    border-radius: 60px 60pt 60px 60px;
+    border: 1px solid #3e3e3e;
+    font-size: 14px;
+    letter-spacing: 0.35px;
+    line-height: 21px;
+    padding-left: 24px;
+}
+
+.form button {
+    justify-content: center;
+    height: 45px;
+    width: 155px;
+    max-width: 20%;
+    box-sizing: border-box;
+    border-radius: 40px 40px 40px 40px;
+    background-color: #3e50e5;
+    border: 1px solid #3e50e5;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.35px;
+    
+}
